@@ -14,6 +14,13 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 
 ---
 
+## Lecture 1: Introduction to ML
+- 🎥 [Watch Video](#)
+- 📑 [Slides](slides/lecture01_ML4CE_course_overview.pdf)
+- 📓 [Notebook: Data Overview](notebooks/lecture01_intro/01_data_overview.ipynb)
+
+---
+
 ## 🗂️ Course Structure
 
 The course consists of video lectures, slides, Jupyter notebooks, and hackathon-style coursework where you can build your own algorithm and benchmark against others. Each lecture includes code examples.
@@ -59,19 +66,6 @@ This course uses **hackathon-style coursework**:
 - **Coursework 1**: Data-driven optimisation: from controller to design of experiments
 - **Coursework 2**: Anomaly detection in the Tennessee Eastman plant
 - **Coursework 3**: Data-driven control: from model-predictive control to reinforcement learning
-
----
-
-## 🎥 Lecture Videos
-
-> 📌 *Links will be added as videos become available.*
-
-- [Lecture 1: Introduction to ML](#)  
-- [Lecture 2: ML Models](#)  
-- [Lecture 3: Anomaly Detection](#)  
-- [Lecture 4: Optimisation](#)  
-- [Lecture 5: Control & MPC](#)  
-- [Lecture 6: LLMs and Wrap-Up](#)
 
 ---
 
