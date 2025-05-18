@@ -14,10 +14,14 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 
 ---
 
-## Lecture 1: Introduction to ML
+## Lecture 1a: Introduction to ML
 - 🎥 [Watch Video](#)
 - 📑 [Slides](slides/lecture01_ML4CE_course_overview.pdf)
-- 📓 [Notebook: Data Overview](notebooks/lecture01_intro/01_data_overview.ipynb)
+
+## Lecture 1b: Linear regression
+- 🎥 [Watch Video](#)
+- 📑 [Slides](#)
+- 📓 [Notebook: ML Models with sklearn](notebooks/notebook01_ML4CE_ml_models.ipynb)
 
 ---
 
