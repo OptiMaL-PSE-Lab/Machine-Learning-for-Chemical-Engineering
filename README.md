@@ -1,9 +1,8 @@
 # 🧠 Machine Learning for Chemical Engineers
 
 **Instructor**: Antonio del Rio Chanona  
-**Email**: [a.del-rio-Chanona@imperial.ac.uk](mailto:a.del-rio-Chanona@imperial.ac.uk)
 
-Welcome to the *Machine Learning for Chemical Engineers* course! This course is designed for final-year MEng and MSc students interested in applying data-driven and AI-based techniques to chemical engineering problems.
+Welcome to the *Machine Learning for Chemical Engineers* course! This course is designed for final-year undergraduate of master MSc students interested in applying data-driven and AI-based techniques to engineering problems (with an emphasis on chemical engineering).
 
 ---
 
@@ -13,19 +12,16 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 - Highlight practical applications in chemical engineering.
 - Develop an understanding of what ML/AI can—and cannot—do.
 
-**Target Audience**:  
-Final year MEng & MSc students with a strong mathematical background and programming skills.
-
 ---
 
 ## 🗂️ Course Structure
 
-The course consists of lectures, slides, Jupyter notebooks, and hackathon-style courseworks. Each module includes practical code examples and real-world applications.
+The course consists of video lectures, slides, Jupyter notebooks, and hackathon-style coursework where you can build your own algorithm and benchmark against others. Each lecture includes code examples.
 
 ### 📚 Curriculum Highlights
 
 1. **Introduction to Machine Learning**
-   - History of ML and AI winters
+   - What is machine learning
    - Data-driven vs. rule-based systems
    - Importance of data
 
@@ -40,31 +36,29 @@ The course consists of lectures, slides, Jupyter notebooks, and hackathon-style 
    - Clustering methods
 
 4. **Data-Driven Optimisation**
-   - Evolutionary algorithms
    - Bayesian optimisation
+   - Derivative-free optimisation (model-based vs direct)
+   - Evolutionary algorithms
    - Design of experiments & simulations
 
 5. **Data-Driven Control**
    - Reinforcement learning
-   - Model predictive control (Do-MPC)
+   - Model predictive control
 
 6. **Large Language Models (LLMs)**
+   - Transformers, transfer learning, self-supervised learning
+   - Vocabulary and LLM pipeline
+   - How does ChatGPT work?
 
 ---
 
-## 🧪 Assessment
+## 🧪 Build your own algorithm
 
-This course uses **hackathon-style coursework** assignments:
+This course uses **hackathon-style coursework**:
 
-- **Coursework 1**: Controller tuning using Bayesian optimisation
+- **Coursework 1**: Data-driven optimisation: from controller to design of experiments
 - **Coursework 2**: Anomaly detection in the Tennessee Eastman plant
-- **Coursework 3**: Data-driven model predictive control
-
-**Marking**:
-- 80% automatic (algorithm performance)
-- 20% team report
-
-> Note: Teams are benchmarked against solutions generated using only ChatGPT!
+- **Coursework 3**: Data-driven control: from model-predictive control to reinforcement learning
 
 ---
 
