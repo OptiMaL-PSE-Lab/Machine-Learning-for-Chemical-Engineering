@@ -16,12 +16,16 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 
 ## Lecture 1a: Introduction to ML
 - 🎥 [Watch Video](#)
-- 📑 [Slides](slides/lecture01_ML4CE_course_overview.pdf)
+- 📑 [Slides](slides/lecture01a_ML4CE_course_overview.pdf)
 
 ## Lecture 1b: Linear regression
 - 🎥 [Watch Video](#)
-- 📑 [Slides](#)
+- 📑 [Slides](slides/lecture01b_ML4CE_linear_regression.pdf)
 - 📓 [Notebook: ML Models with sklearn](notebooks/notebook01_ML4CE_ml_models.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NViNm2MUy8FgV1tEEoxd2_NoSYzghEOw?usp=sharing)
+
+## Lecture 1c: Maximum likelihood estimation
+- 🎥 [Watch Video](#)
+- 📑 [Slides](slides/lecture01c_ML4CE_maximum_likelihood.pdf)
 
 ---
 
