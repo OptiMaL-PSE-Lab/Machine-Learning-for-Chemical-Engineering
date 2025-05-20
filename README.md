@@ -21,7 +21,7 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 ## Lecture 1b: Linear regression
 - 🎥 [Watch Video](#)
 - 📑 [Slides](#)
-- 📓 [Notebook: ML Models with sklearn](notebooks/notebook01_ML4CE_ml_models.ipynb)
+- 📓 [Notebook: ML Models with sklearn](notebooks/notebook01_ML4CE_ml_models.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NViNm2MUy8FgV1tEEoxd2_NoSYzghEOw?usp=sharing)
 
 ---
 
