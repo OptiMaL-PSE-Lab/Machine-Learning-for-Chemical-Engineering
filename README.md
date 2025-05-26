@@ -27,6 +27,18 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 - 🎥 [Watch Video](#)
 - 📑 [Slides](slides/lecture01c_ML4CE_maximum_likelihood.pdf)
 
+## Lecture 2a: Neural networks
+- 🎥 [Watch Video](#)
+- 📑 [Slides](slides/lecture02a_ML4CE_neural_networks.pdf)
+
+## Lecture 2b: Optimization algorithms for deep learning (e.g., SGD, Adam)
+- 🎥 [Watch Video](#)
+- 📑 [Slides](slides/lecture02a_ML4CE_optimization.pdf)
+
+## Lecture 2c: Optimization in deep learning
+- 🎥 [Watch Video](#)
+- 📑 [Slides](slides/lecture02a_ML4CE_optimization.pdf)
+
 ---
 
 ## 🗂️ Course Structure
