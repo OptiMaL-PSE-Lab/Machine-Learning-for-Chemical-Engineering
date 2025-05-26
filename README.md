@@ -33,12 +33,12 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 
 ## Lecture 2b: Optimization algorithms for deep learning (e.g., SGD, Adam)
 - 🎥 [Watch Video](#)
-- 📑 [Slides](slides/lecture02a_ML4CE_optimization.pdf)
+- 📑 [Slides](slides/lecture02b_ML4CE_optimization.pdf)
 - 📓 [Notebook: Optimization algorithms for deep learning](notebooks/notebook02b_ML4CE_optimization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CaSIIeGtrwQ-dC3bc3_oQY9x-wr7-HTC?usp=sharing)
 
 ## Lecture 2c: Optimization in deep learning
 - 🎥 [Watch Video](#)
-- 📑 [Slides](slides/lecture02a_ML4CE_optimization.pdf)
+- 📑 [Slides](slides/lecture02b_ML4CE_optimization.pdf)
 
 ---
 
