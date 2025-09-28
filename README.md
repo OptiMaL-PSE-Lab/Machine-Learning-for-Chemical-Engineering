@@ -85,13 +85,14 @@ The course consists of video lectures, slides, Jupyter notebooks, and hackathon-
 
 This course uses **hackathon-style coursework**:
 
-There are generally 3 types of coursework:
+There are generally 3 types of coursework mirroring ML applications for engineering:
 
 - **Data-driven optimisation**: Build ML algorithms for controller tuning, design of experiments, real-time optimisation, etc.
-- **Unsupervised learning**: Anomaly detection in the Tennessee Eastman plant
-- **Data-driven control**: Build a data-driven model-predictive or reinforcement learning algorithm to control chemical reactors or supply chains
+- **Unsupervised learning**: Anomaly detection in the Tennessee Eastman plant.
+- **Data-driven control**: Build a data-driven model-predictive or reinforcement learning algorithm to control chemical reactors or supply chains.
 
 📚 [All courseworks can be found here](https://github.com/OptiMaL-PSE-Lab/Imperial-ML4CE-Course)
+
 ---
 
 ## 📁 Repository Structure
