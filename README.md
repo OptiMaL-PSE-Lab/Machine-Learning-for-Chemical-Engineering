@@ -41,6 +41,33 @@ Welcome to the *Machine Learning for Chemical Engineers* course! This course is 
 - 🎥 [Watch Video](#) [coming soon!]
 - 📑 [Slides](slides/lecture02b_ML4CE_optimization.pdf)
 
+## Lecture 3: Data-driven optimization
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 4a: Gaussian processes
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 4b: Bayesian optimization
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 4c: Advanced Bayesian optimization
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 5: Unsupervised learning
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 6: Reinforcement learning 
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 7a: Time-series prediction  
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 7b: Data-driven model predictive control
+- 🎥 [Watch Video](#) [coming soon!]
+
+## Lecture 8: Large Language Models (LLMs) and ChatGPT
+- 🎥 [Watch Video](#) [coming soon!]
+
 ---
 
 ## 🗂️ Course Structure
